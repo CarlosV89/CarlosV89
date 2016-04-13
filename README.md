@@ -1,6 +1,6 @@
 # CarlosV89
 
-> Jasson Cascante (Yëco)
+> Carlos Villalta
 
 # install
 
@@ -13,7 +13,7 @@ npm install CarlosV89
 As a JSON object.
 
 ```js
-console.log(require('CarlosV89'));
+console.log(require('carlosv89'));
 ```
 
 # credits
