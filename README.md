@@ -7,13 +7,13 @@
 As a `postinstall` script.
 
 ```bash
-npm install CarlosV89
+npm install carlosv
 ```
 
 As a JSON object.
 
 ```js
-console.log(require('carlosv89'));
+console.log(require('carlosv'));
 ```
 
 # credits
